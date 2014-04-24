@@ -3,6 +3,7 @@ HiddenWaffle
 
 What is HiddenWaffle
 --------------
+
 Hidden Waffle is a small open-source initiative. This is a set of classes which makes writing test-cases with Selenium an extremely pleasant experience. It contains extendable set of base classes containing rich functionality and a runner, which can be used to write any type of test execution scenario and environment.
 
 It is an alternative to using NUnit framework.
@@ -11,6 +12,7 @@ Low cost solution for small-sized teams for automated testing.
 
 Concepts
 --------------
+
 A Test Case is a micro level test case and is represented by a C# class function. In case of success, return true and in case of logical error, return false. If function crashes, HiddenWaffle will mark the test failed. A test case is decorated with attribute GM.HiddenWaffle.Tests.Base.Decorations.GMTestCaseAttribute. A sample decorated test case:
 
 ```C#
@@ -95,8 +97,17 @@ A practical implementation can be:
 
 Need help with any of the above? Contact me at fahad_at_graymath.com
 
+TODO
+--------------
+
+- Add support for execution duration - i.e. constraint that a test case should be executed within 4 seconds
+- Write a decent runner to manually run the tests
+- Write a decent runner for AWS EC2 instances
+- Write a decent runner for load-testing
+
 About Fahad Khalil
 --------------
+
 A Software Engineering Practitioner with over 10 years of experience in software engineering and training. His passions include – Preaching Agile, Software Development Best Practices, Coding Apps and Frameworks. He can talk numbers with clients and sit with engineers to debug and resolve technical issues at code level. 
 
 License

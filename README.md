@@ -10,6 +10,8 @@ It is an alternative to using NUnit framework.
 
 Low cost solution for small-sized teams for automated testing.
 
+__If you know JQuery and C#, getting up start writing test cases should not require more then 30 minutes.__
+
 Concepts
 --------------
 

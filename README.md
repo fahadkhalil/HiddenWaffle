@@ -9,7 +9,7 @@ It is an alternative to using NUnit framework.
 
 Low cost solution for small-sized teams for automated testing.
 
-Concepts:
+Concepts
 --------------
 A Test Case is a micro level test case and is represented by a C# class function. In case of success, return true and in case of logical error, return false. If function crashes, HiddenWaffle will mark the test failed. A test case is decorated with attribute GM.HiddenWaffle.Tests.Base.Decorations.GMTestCaseAttribute. A sample decorated test case:
 

@@ -35,6 +35,10 @@ A practical implementation can be:
 
 Need help with any of the above? Contact me at fahad_at_graymath.com
 
+About Fahad Khalil
+--------------
+A Software Engineering Practitioner with over 10 years of experience in software engineering and training. His passions include – Preaching Agile, Software Development Best Practices, Coding Apps and Frameworks. He can talk numbers with clients and sit with engineers to debug and resolve technical issues at code level. 
+
 License
 --------------
 

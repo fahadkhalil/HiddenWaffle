@@ -6,8 +6,6 @@ What is HiddenWaffle
 
 Hidden Waffle is a small open-source initiative. This is a set of classes which makes writing test-cases with Selenium an extremely pleasant experience. It contains extendable set of base classes containing rich functionality and a runner, which can be used to write any type of test execution scenario and environment.
 
-It is an alternative to using NUnit framework.
-
 Low cost solution for small-sized teams for automated testing.
 
 __If you know JQuery and C#, getting up start writing test cases should not require more then 30 minutes.__
